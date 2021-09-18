@@ -1,7 +1,7 @@
 @import "./font.css";
-@import "./style/SendEmail.css";
-@import "./style/ScheduleMeeting.css";
-@import "./style/SendReminder.css";
+@import "./styles/SendEmail.css";
+@import "./styles/ScheduleMeeting.css";
+@import "./styles/SendReminder.css";
 
 * {
 	padding: 0;

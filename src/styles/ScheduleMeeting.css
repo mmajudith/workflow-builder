@@ -1,0 +1,26 @@
+.sch-meeting-wrapper {
+	width: 100%;
+	height: 100%;
+	margin: auto auto;
+	color: hsl(217, 19%, 81%);
+}
+
+.emails-wrapper,
+.location-wrapper {
+	text-align: left;
+	width: 90%;
+	margin: 10px auto;
+}
+
+.sch-meeting-wrapper input {
+	width: 93%;
+	margin: auto auto;
+	margin-top: 4px;
+	height: 35px;
+	border-radius: 5px;
+	border: 1px solid #ddd;
+	padding-left: 7%;
+	font-weight: 600;
+	background-color: hsl(211, 15%, 24%);
+	color: hsl(217, 19%, 81%);
+}
